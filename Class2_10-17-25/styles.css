@@ -1,0 +1,11 @@
+.title{
+   font-size: 24pt;
+   color: blue;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lecturer{
+   margin-left: 50px;
+   color: black;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
